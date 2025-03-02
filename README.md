@@ -18,9 +18,6 @@
 - **Version Control**: Git, GitHub
 - **Other Technologies**: Web Development, Cloud Computing
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathanpua&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nathan-pua-7063562ab/)
 - 🔗 GitHub: [@nathanpua](https://github.com/nathanpua)
