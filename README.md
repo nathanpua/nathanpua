@@ -1,22 +1,36 @@
-# Hi there, I'm Nathan Pua 👋
+# 👋 Hi there, I'm Nathan Pua
 
-## About Me
-- 🌱 I’m currently learning new technologies and improving my coding skills.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about web development, especially with JavaScript, React, and Node.js.
-- 📫 How to reach me: [nathan.pua@example.com](mailto:nathan.pua@example.com)
-- ⚡ Fun fact: I love hiking and exploring new places.
+## 💫 About Me
+- 🎓 Undergraduate majoring in Data Science and Artificial Intelligence at NTU
+- 🌍 Based in Singapore
+- 💻 Passionate about Machine Learning, Data Science, and AI applications
+- 🔭 Currently exploring deep learning models and their real-world applications
 
-## GitHub Stats
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanpua&show_icons=true&theme=radical)
+## 🚀 Projects
+- 🏙️ [EY-Open-Data-Challenge](https://github.com/nathanpua/EY-Open-Data-Challenge) - EY Open Science AI & Data Challenge: Cooling Urban Heat Islands
+- 🤖 [DeepLearners](https://github.com/nathanpua/DeepLearners) - MLDA Hackathon project focused on machine learning applications
+- 🚗 [Used-car-recommendation-system](https://github.com/nathanpua/Used-car-recommendation-system) - A recommendation system for used cars using data analysis and ML techniques
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpua&layout=compact&theme=radical)
+## 🛠️ Skills
+- **Programming**: Python, TypeScript, Jupyter Notebooks
+- **ML/AI Frameworks**: TensorFlow, PyTorch, scikit-learn
+- **Data Analysis**: Pandas, NumPy, Data Visualization
+- **Version Control**: Git, GitHub
+- **Other Technologies**: Web Development, Cloud Computing
 
-## Projects
-- [Project 1](https://github.com/nathanpua/project1): Description of project 1.
-- [Project 2](https://github.com/nathanpua/project2): Description of project 2.
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathanpua&show_icons=true&theme=radical)
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathanpua/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/nathanpua)
+## 📫 How to reach me
+- 💼 [LinkedIn](https://www.linkedin.com/in/nathan-pua-7063562ab/)
+- 🔗 GitHub: [@nathanpua](https://github.com/nathanpua)
+
+## 🔍 Currently Learning
+- Advanced Deep Learning techniques
+- Natural Language Processing
+- Computer Vision applications
+- Urban data science for smart city solutions
+
+---
+
+*"Using data to solve real-world problems and build a better future."*
