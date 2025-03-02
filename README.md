@@ -8,11 +8,11 @@
 
 ## 🚀 Projects
 - 🏙️ [EY-Open-Data-Challenge](https://github.com/nathanpua/EY-Open-Data-Challenge) - EY Open Science AI & Data Challenge: Cooling Urban Heat Islands
-- 🤖 [DeepLearners](https://github.com/nathanpua/DeepLearners) - MLDA Hackathon project focused on machine learning applications
+- 🤖 [DeepTrust](https://github.com/nathanpua/DeepLearners) - MLDA Hackathon project focused on machine learning applications
 - 🚗 [Used-car-recommendation-system](https://github.com/nathanpua/Used-car-recommendation-system) - A recommendation system for used cars using data analysis and ML techniques
 
 ## 🛠️ Skills
-- **Programming**: Python, TypeScript, Jupyter Notebooks
+- **Programming**: Python, Jupyter Notebooks, Typescript, Java
 - **ML/AI Frameworks**: TensorFlow, PyTorch, scikit-learn
 - **Data Analysis**: Pandas, NumPy, Data Visualization
 - **Version Control**: Git, GitHub
