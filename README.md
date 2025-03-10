@@ -8,7 +8,7 @@
 
 ## 🚀 Projects
 - 🏙️ [EY-Open-Data-Challenge](https://github.com/nathanpua/EY-Open-Data-Challenge) - EY Open Science AI & Data Challenge: Cooling Urban Heat Islands
-- 🤖 [DeepTrust](https://github.com/nathanpua/DeepLearners) - MLDA Hackathon project focused on machine learning applications
+- 🤖 [Exposé](https://github.com/nathanpua/techfest2025) - Hackathon project: Full stack web app to detect misinformation in news articles and images using AI
 - 🚗 [Used-car-recommendation-system](https://github.com/nathanpua/Used-car-recommendation-system) - A recommendation system for used cars using data analysis and ML techniques
 
 ## 🛠️ Skills
