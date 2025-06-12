@@ -4,10 +4,11 @@
 - 🎓 Undergraduate majoring in Data Science and Artificial Intelligence at NTU
 - 🌍 Based in Singapore
 - 💻 Passionate about Machine Learning, Data Science, and AI applications
-- 🔭 Currently exploring deep learning models and their real-world applications
+- 🔭 Currently exploring cloud technologies, ML/AI models and their real-world applications
 
 ## 🚀 Projects
-- 🏙️ [EY-Open-Data-Challenge](https://github.com/nathanpua/EY-Open-Data-Challenge) - EY Open Science AI & Data Challenge: Cooling Urban Heat Islands
+- 🍵 [Marukyu Scraper](https://github.com/nathanpua/Matcha) - Autonomous cloud based program to monitor and snipe matcha restocks
+- 🦋 [Metamorphosis](https://github.com/nathanpua/Metamorphosis-iNTUition25_Hackathon_Project) - Hackathon project: Full stack change management dashboard with RAG-powered AI chatbot
 - 🤖 [Exposé](https://github.com/nathanpua/techfest2025) - Hackathon project: Full stack web app to detect misinformation in news articles and images using AI
 - 🚗 [Used-car-recommendation-system](https://github.com/nathanpua/Used-car-recommendation-system) - A recommendation system for used cars using data analysis and ML techniques
 
@@ -23,10 +24,10 @@
 - 🔗 GitHub: [@nathanpua](https://github.com/nathanpua)
 
 ## 🔍 Currently Learning
+- AWS Services
 - Advanced Deep Learning techniques
 - Natural Language Processing
 - Computer Vision applications
-- Urban data science for smart city solutions
 
 ---
 
