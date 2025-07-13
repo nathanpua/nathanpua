@@ -7,7 +7,7 @@
 - 🔭 Currently exploring cloud technologies, ML/AI models and their real-world applications
 
 ## 🚀 Projects
-- 🍵 [Marukyu Scraper](https://github.com/nathanpua/Matcha) - Autonomous cloud based program to monitor and snipe matcha restocks
+- 🍵 [Matcha Scraper](https://github.com/nathanpua/MatchaScraper) - Autonomous cloud based program to monitor and snipe matcha restocks
 - 🦋 [Metamorphosis](https://github.com/nathanpua/Metamorphosis-iNTUition25_Hackathon_Project) - Hackathon project: Full stack change management dashboard with RAG-powered AI chatbot
 - 🤖 [Exposé](https://github.com/nathanpua/techfest2025) - Hackathon project: Full stack web app to detect misinformation in news articles and images using AI
 - 🚗 [Used-car-recommendation-system](https://github.com/nathanpua/Used-car-recommendation-system) - A recommendation system for used cars using data analysis and ML techniques
@@ -25,9 +25,9 @@
 
 ## 🔍 Currently Learning
 - AWS Services
+- Infrastructure as Code (IaC)
 - Advanced Deep Learning techniques
 - Natural Language Processing
-- Computer Vision applications
 
 ---
 
